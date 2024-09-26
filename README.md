@@ -23,6 +23,7 @@ Advanced Analysis (if applicable):
 Predictive modeling
 Machine learning algorithms
 Tools Used:
+![Coffee project picture](https://github.com/user-attachments/assets/00d68582-151b-4295-af94-21bcae259f4d)
 
 Microsoft Excel for data cleaning, exploration, and visualization
 [Any additional tools or software, e.g., Python, R, Power BI]
